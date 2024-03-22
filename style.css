@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+h1{
+    color:brown;
+    text-align: center;
+}
+p{
+    color:blueviolet;
+}
+p1{
+    color:blue;
+}
+table, th, td{
+    border: 1px solid black;
+}
