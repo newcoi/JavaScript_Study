@@ -33,8 +33,6 @@ fruits.shift();
 console.log("Array after shift:", fruits);
 
 //getting length of array
-
-
 const fruits1 =['Apple',"Banana", `kiwi`,55,[3,4,6,6,77]];
 const arryName = new Array('Apple',"Banana", `kiwi`,55,[3,4,6,6,77]);
 console.log(fruits[2]);
